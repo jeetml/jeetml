@@ -19,19 +19,19 @@ Hello! I'm **Jeet Patel**, an AI/ML enthusiast passionate about building data-dr
 - **🎥 IMDb Sentiment Analysis** – Scraping IMDb reviews and analyzing sentiment with Streamlit.
 
 ## 🌟 Featured Projects
-### 📌 [Sales Data Analysis & Forecasting](https://github.com/yourrepo)
+### 📌 [Sales Data Analysis & Forecasting]
 > Analyzing sales trends, seasonal variations, and product performance to predict future sales using **ML & Streamlit**.
 
-### 📌 [Place Recommendation System](https://github.com/yourrepo)
+### 📌 [Place Recommendation System]
 > Built a **KNN-based** recommendation system in Flask & Django that suggests places based on user location.
 
-### 📌 [AI-Driven Excel Insights](https://github.com/yourrepo)
+### 📌 [AI-Driven Excel Insights]
 > A **Flask-based chatbot** guiding users to extract meaningful insights from Excel files.
 
-### 📌 [Stock Market Performance Prediction](https://github.com/yourrepo)
+### 📌 [Stock Market Performance Prediction]
 > A React + Python application displaying performance percentages of stock models.
 
-### 📌 [Human Face Detection](https://github.com/yourrepo)
+### 📌 [Human Face Detection]
 > A **Streamlit-based** face detection system using OpenCV.
 
 ## 🌱 Interests & Learning
